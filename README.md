@@ -1,4 +1,4 @@
-# GetValue
+# Processing the bad gragph file
 
 (1) cd GetValue
 
